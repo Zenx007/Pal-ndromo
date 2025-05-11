@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\zenxp\\source\\repos\\pal\u00EDndromo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{63C39B9C-6A5B-48AB-A532-B305921A3D2B}|pal\u00EDndromo\\pal\u00EDndromo.csproj|c:\\users\\zenxp\\source\\repos\\pal\u00EDndromo\\pal\u00EDndromo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63C39B9C-6A5B-48AB-A532-B305921A3D2B}|pal\u00EDndromo\\pal\u00EDndromo.csproj|solutionrelative:pal\u00EDndromo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\zenxp\\source\\repos\\pal\u00EDndromo\\pal\u00EDndromo\\Program.cs",
+              "RelativeDocumentMoniker": "pal\u00EDndromo\\Program.cs",
+              "ToolTip": "C:\\Users\\zenxp\\source\\repos\\pal\u00EDndromo\\pal\u00EDndromo\\Program.cs*",
+              "RelativeToolTip": "pal\u00EDndromo\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T02:57:07.088Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

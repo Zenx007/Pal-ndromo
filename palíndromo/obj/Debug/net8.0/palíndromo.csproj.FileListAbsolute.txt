@@ -1,0 +1,14 @@
+C:\Users\zenxp\source\repos\palíndromo\palíndromo\bin\Debug\net8.0\palíndromo.exe
+C:\Users\zenxp\source\repos\palíndromo\palíndromo\bin\Debug\net8.0\palíndromo.deps.json
+C:\Users\zenxp\source\repos\palíndromo\palíndromo\bin\Debug\net8.0\palíndromo.runtimeconfig.json
+C:\Users\zenxp\source\repos\palíndromo\palíndromo\bin\Debug\net8.0\palíndromo.dll
+C:\Users\zenxp\source\repos\palíndromo\palíndromo\bin\Debug\net8.0\palíndromo.pdb
+C:\Users\zenxp\source\repos\palíndromo\palíndromo\obj\Debug\net8.0\palíndromo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zenxp\source\repos\palíndromo\palíndromo\obj\Debug\net8.0\palíndromo.AssemblyInfoInputs.cache
+C:\Users\zenxp\source\repos\palíndromo\palíndromo\obj\Debug\net8.0\palíndromo.AssemblyInfo.cs
+C:\Users\zenxp\source\repos\palíndromo\palíndromo\obj\Debug\net8.0\palíndromo.csproj.CoreCompileInputs.cache
+C:\Users\zenxp\source\repos\palíndromo\palíndromo\obj\Debug\net8.0\palíndromo.dll
+C:\Users\zenxp\source\repos\palíndromo\palíndromo\obj\Debug\net8.0\refint\palíndromo.dll
+C:\Users\zenxp\source\repos\palíndromo\palíndromo\obj\Debug\net8.0\palíndromo.pdb
+C:\Users\zenxp\source\repos\palíndromo\palíndromo\obj\Debug\net8.0\palíndromo.genruntimeconfig.cache
+C:\Users\zenxp\source\repos\palíndromo\palíndromo\obj\Debug\net8.0\ref\palíndromo.dll
